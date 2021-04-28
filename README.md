@@ -4,7 +4,7 @@
 
 #### requirements 
 - pip install dload
-- 
+- pip install beautifulsoup4
 
 #### Reference 
 - https://velog.io/@bangsy/python-crawling-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EB%A1%A4%EB%A7%81
