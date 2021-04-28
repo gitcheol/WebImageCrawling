@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 *.png
 *.jpg
 *.pyc
 chromedriver
 .DS_Store
+=======
+*.pyc
+chromedriver
+>>>>>>> 94576f1dd0ab2aeaf787b8521d3ede6fe9337556
