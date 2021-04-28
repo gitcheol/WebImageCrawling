@@ -4,7 +4,6 @@ from selenium import webdriver
 import time
 import random
 import category
-<<<<<<< HEAD
 import os
  
 def main():
