@@ -4,12 +4,21 @@ from selenium import webdriver
 import time
 import random
 import category
+<<<<<<< HEAD
 import os
  
 def main():
     base = "https://search.daum.net/search?w=img&nil_search=btn&DA=NTB&enc=utf8&q="
     if not os.path.exists('./imgs'):
         os.makedirs('./imgs')
+=======
+ 
+
+
+
+def main():
+    base = "https://search.daum.net/search?w=img&nil_search=btn&DA=NTB&enc=utf8&q="
+>>>>>>> 94576f1dd0ab2aeaf787b8521d3ede6fe9337556
 
     for items in get_category():
         
